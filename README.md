@@ -15,7 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Sample
+## Application
 
-https://github.com/ndridm2/authtentications/assets/64353589/d016e297-b4a6-477b-9b66-13734fa8c2c6
+<img width="344" alt="authentications" src="https://github.com/user-attachments/assets/edd24816-d09e-4b67-a634-c02b5de3ce92">
+
 
